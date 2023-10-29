@@ -20,4 +20,6 @@ For the code you will need the Arduino IDE, You can download it here:
 
 ## Code 
 This is the link to the code I used in the video:
-[Code](Code.ino)
+[Code](Capsensor.ino)
+If you want to learn more about this code I really recommend you to read this: 
+[Library documentatio](https://playground.arduino.cc/Main/CapacitiveSensor/)
