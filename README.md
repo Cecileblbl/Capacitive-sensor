@@ -11,6 +11,8 @@ To make this touch interactive LED you will need:
 - 1 220 Ohms resistor
 - 1 Led 
 
+You can use this to check your resistors value: 
+[Resistor calculator](https://www.calculator.net/resistor-calculator.html)
 For the code you will need the Arduino IDE, You can download it here: 
 [Arduino IDE](https://www.arduino.cc/en/software)
 
